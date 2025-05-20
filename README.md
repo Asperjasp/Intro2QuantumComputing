@@ -32,6 +32,7 @@ This course covers the basic concepts of quantum computing, including:
 - [Qiskit Documentation](https://qiskit.org/documentation/)
 - [IBM Quantum Experience](https://quantum-computing.ibm.com/)
 - [Quantum Computing Playground](http://www.quantumplayground.net/)
+- [Linux Foundation Quantum computing course](https://training.linuxfoundation.org/training/fundamentals-of-quantum-computing-lfq101)
 
 ## Bibliography
 ### Core Textbooks
